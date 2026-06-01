@@ -1,0 +1,16 @@
+{
+  "name": "shophub-online-shopping",
+  "version": "1.0.0",
+  "description": "Online shopping platform built with React JS and Node JS",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "cors": "^2.8.5"
+  },
+  "keywords": ["react","nodejs","ecommerce","shopping"],
+  "license": "MIT"
+}
